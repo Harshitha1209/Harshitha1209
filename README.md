@@ -29,7 +29,7 @@
 <h2 align="left">👩‍💻 About Me</h2>
 
 <p align="left">
-  🎓 2026 B.Tech Graduate in Computer Science and Engineering (AI/ML)<br/>
+  🎓 B.Tech Graduate in Computer Science and Engineering (AI/ML)<br/>
   🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science<br/>
   🐍 Skilled in Python, Java, and MySQL<br/>
   🧠 Exploring Machine Learning and Deep Learning using TensorFlow and Scikit-learn<br/>
