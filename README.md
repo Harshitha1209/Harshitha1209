@@ -96,23 +96,9 @@
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Fake Review Project"/>
 </a>
 
+
 <!-- PROJECT 3 -->
-<h3>🏢 3. ABC Tech Company — Client Project</h3>
-
-<p>
-  Worked on a real-world ABC Tech Company client project involving four ML tasks: high-priority ticket classification, ticket volume forecasting, automatic ticket tagging by department and priority, and RFC and ITSM asset failure prediction.
-</p>
-
-<p>
-  <b>Tech Stack:</b> Python | SQL | Pandas
-</p>
-
-<a href="YOUR_ABC_TECH_REPO_URL">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ABC Tech Project"/>
-</a>
-
-<!-- PROJECT 4 -->
-<h3>🌾 4. Rice Leaf Disease Detection using CNN</h3>
+<h3>🌾 3. Rice Leaf Disease Detection using CNN</h3>
 
 <p>
   An image classification project that applies a Convolutional
