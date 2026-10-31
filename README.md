@@ -75,7 +75,7 @@
 </p>
 
 <!-- Replace with your actual repository URL -->
-<a href="YOUR_PDF_CHATBOT_REPO_URL">
+<a href="https://github.com/Harshitha1209/PDF-RAG-CHATBOT">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View PDF Chatbot Project"/>
 </a>
 
