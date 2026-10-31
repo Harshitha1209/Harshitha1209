@@ -92,7 +92,7 @@
   <b>Tech Stack:</b> Python | NLP | Scikit-learn | DistilBERT | Flask
 </p>
 
-<a href="YOUR_FAKE_REVIEW_REPO_URL">
+<a href="https://github.com/Harshitha1209/Fake-review-detection">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Fake Review Project"/>
 </a>
 
@@ -109,7 +109,7 @@
   <b>Tech Stack:</b> Python | TensorFlow | CNN 
 </p>
 
-<a href="YOUR_RICE_DISEASE_REPO_URL">
+<a href="https://github.com/Harshitha1209/Rice-Leaf-Disease-Detection">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Rice Disease Project"/>
 </a>
 
